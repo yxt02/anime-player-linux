@@ -1,0 +1,19 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: anime-player-linux
+Source: 本机独立实现（非公开发行的上游项目）
+
+Files: *
+Copyright: 2026 anime-player-linux contributors
+License: custom-permission
+ 本程序为独立开发的 Linux 桌面动漫视频播放器，
+ 仅供个人使用，不用于盈利或售卖，与任何商业软件无关联。
+
+Files: usr/lib/anime-player-linux/anime_player/assets/shaders/*
+Copyright: 2023-2024 Anime4K contributors
+License: GPL-3.0
+ On Debian systems, the full text of the GNU General Public License
+ version 3 can be found in /usr/share/common-licenses/GPL-3.
+ .
+ Anime4K GLSL shaders are redistributed under GPL-3.0; their full
+ license text is included at anime_player/assets/shaders/LICENSE next to
+ the shader files.

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Anime Player
+Name[zh_CN]=动漫播放器
+GenericName=Video Player
+Comment=Linux 动漫视频播放器（独立开发·仅供个人使用）
+Exec=anime-player-linux
+Icon=anime-player-linux
+Terminal=false
+Categories=AudioVideo;Video;Player;Qt;
+Keywords=anime;player;danmaku;

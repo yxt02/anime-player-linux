@@ -1,0 +1,5 @@
+# Python dependencies (conda-forge provides libmpv via `conda install -c conda-forge mpv`)
+PyQt6>=6.6
+requests>=2.31
+python-mpv>=1.0.4
+qrcode>=7.4        # optional: QR login rendering
